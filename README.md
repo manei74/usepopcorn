@@ -5,7 +5,7 @@ UsePopcorn is a React application designed for movie lovers. With UsePopcorn, yo
 ## 🌍 Live Demo
 
 Check out the live version here:  
-[https://manei74.github.io/usepopcorn/](https://manei74.github.io/usepopcorn/))  
+[https://manei74.github.io/usepopcorn/](https://manei74.github.io/usepopcorn/)
 
 ## 🚀 Features
 
